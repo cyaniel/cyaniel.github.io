@@ -6,6 +6,7 @@ const vitePressConfigs = {
   title: '心无尘埃，清风自来',
   // description: "A VitePress Site",
   cleanUrls: true,
+  base: '/',
   lastUpdated: true,
   outline: 'deep',
   themeConfig: {
