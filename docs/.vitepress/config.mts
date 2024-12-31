@@ -24,7 +24,7 @@ const vitePressConfigs = {
     },
 
     footer: {
-      message: 'Released under the MIT License.',
+      message: '',
       copyright: `Copyright © 2019-${new Date().getFullYear()} Cyanel`
     },
     lastUpdated: {
